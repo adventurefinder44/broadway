@@ -3,9 +3,11 @@ body {
 }
 
 .broadway p {
-  font-size: 18px;
+  font-size: 18px; color: white;
 }
 
 .process p {
   font-size: 14px;
 }
+
+.broadway h1 {font-size: 70;}
