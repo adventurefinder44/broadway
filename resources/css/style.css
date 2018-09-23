@@ -3,11 +3,43 @@ body {
 }
 
 .broadway p {
-  font-size: 18px; color: white;
+  font-size: 18px; color: white
+}
+
+.broadway {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
 .process p {
   font-size: 14px;
 }
 
-.broadway h1 {font-size: 70;}
+h1 {
+  font-size: 70px; font-weight: bold; color: white;
+}
+
+h2 {
+  font-size: 32px; font-weight: bold;
+}
+
+h4 {
+  font-size: 23px; font-weight: bold;
+}
+
+h3 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png); font-size: 23px; font-weight: bold; color: white;
+}
+
+footer {
+  background-color: dimgrey; color: white;
+}
+
+span {
+  font-size: 11px;
+}
+
+.footer {
+  text-align: left;
+}
+
+a {color: white;}
