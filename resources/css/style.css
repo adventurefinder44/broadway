@@ -7,7 +7,7 @@ body {
 }
 
 .broadway {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-position: right; background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
 
 .process p {
@@ -27,7 +27,7 @@ h4 {
 }
 
 h3 {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png); font-size: 23px; font-weight: bold; color: white;
+  background-position: right; background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png); font-size: 23px; font-weight: bold; color: white;
 }
 
 footer {
@@ -42,4 +42,6 @@ span {
   text-align: left;
 }
 
-a {color: white;}
+a {
+  color: white;
+}
